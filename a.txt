@@ -1,3 +1,7 @@
 My Name Is Aditya
 I Am Fine
+<<<<<<< Updated upstream
 I dont have Food
+=======
+I Am Hungry
+>>>>>>> Stashed changes
